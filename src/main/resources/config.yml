@@ -1,0 +1,6 @@
+announce:
+  prefix: "&7[&6&lAnnouncement&7]"
+  #Placeholders that can be used are {prefix} | {message}
+  global-message: "{prefix} &f{message}"
+  #Placeholders that can be used are {prefix} | {server} | {message}
+  server-message: "{prefix} &7[&f{server}&7] &f{message}"
