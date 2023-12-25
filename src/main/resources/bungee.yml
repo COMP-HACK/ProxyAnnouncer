@@ -1,4 +1,4 @@
 name: BungeeAnnounce
 version: '${project.version}'
-main: me.comphack.bungeeannounce.BungeeAnnounce
+main: me.comphack.bungeeannounce.bungee.BungeeAnnounce
 author: 'COMPHACK'
