@@ -22,9 +22,9 @@ import org.slf4j.Logger;
 
 import java.nio.file.Path;
 
-@Plugin(id = "velocityannounce",
-        name = "VelocityAnnounce",
-        version = "1.0.0",
+@Plugin(id = "proxyannounce",
+        name = "ProxyAnnounce",
+        version = "1.0.1",
         authors = {"COMPHACK"}
 )
 public class VelocityAnnounce {
