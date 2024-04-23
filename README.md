@@ -1,8 +1,9 @@
 # BungeeAnnouncer
 [![imageban](https://i2.imageban.ru/out/2023/12/12/e3784db7dd171339b823e23a67ed2fbd.png)]()
 
-### A simple & lightweight Bungeecord announcement plugin with customizable messages.
+### A simple & lightweight Bungeecord & Velocity announcement plugin with customizable messages.
 ​
+**MININ JAVA VERSION: 11**
 
 ## Commands:​
 * /announce <message> - Announce a message globally to all servers.

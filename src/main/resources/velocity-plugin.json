@@ -1,0 +1,7 @@
+{
+  "id": "velocityannounce",
+  "name": "VelocityAnnounce",
+  "main": "me.comphack.bungeeannounce.velocity.VelocityAnnounce",
+  "version": "1.0.0",
+  "authors": ["COMPHACK"]
+}

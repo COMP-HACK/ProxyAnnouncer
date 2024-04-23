@@ -1,7 +1,7 @@
-package me.comphack.bungeeannounce;
+package me.comphack.bungeeannounce.bungee;
 
-import me.comphack.bungeeannounce.commands.GlobalBroadcastCommand;
-import me.comphack.bungeeannounce.commands.ServerBroadcastCommand;
+import me.comphack.bungeeannounce.bungee.commands.GlobalBroadcastCommand;
+import me.comphack.bungeeannounce.bungee.commands.ServerBroadcastCommand;
 import net.md_5.bungee.api.plugin.Plugin;
 import net.md_5.bungee.config.Configuration;
 import net.md_5.bungee.config.ConfigurationProvider;
